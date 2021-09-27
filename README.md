@@ -32,11 +32,10 @@ But then again, all these exercises are meant to exercise one element of the lan
 Understand, how to set up a C# Project from scratch, understand the Code involved with a simple Hello World Application
 ## Process
 - [ ] Work your way through the slides [003.1 Hello World](slides/003.1-hello-world.md)
-- [ ] Set up your GitHub Classroom Repository
-- [ ] Clone your GitHub Classroom Repository (e.g. using GitHub Desktop)
 - [ ] Pick an IDE of your choice ([Jetbrains Rider](https://www.jetbrains.com/rider/) is highly recommended, free student licenses available through your student email address)
 - [ ] Open the Hello World application in your IDE
 - [ ] Run the Hello World application through your IDE
+- [ ] Start the Assignment on Google and GitHub Classroom. Check [002 Assignments with Google and GitHub Classroom](slides/002-assignments-with-google-and-github-classroom.md)
 
 # Day 2
 ## Goal
