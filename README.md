@@ -33,8 +33,8 @@ Understand, how to set up a C# Project from scratch, understand the Code involve
 ## Process
 - [ ] Work your way through the slides [003.1 Hello World](slides/003.1-hello-world.md)
 - [ ] Pick an IDE of your choice ([Jetbrains Rider](https://www.jetbrains.com/rider/) is highly recommended, free student licenses available through your student email address)
-- [ ] Open the Hello World application in your IDE
-- [ ] Run the Hello World application through your IDE
+- [ ] Open the Hello World Project `HelloWorld.csproj` in your IDE
+- [ ] Run the Hello World Project through your IDE. In most IDE's, there's a Play Button in the Top Bar.
 - [ ] Start the Assignment on Google and GitHub Classroom. Check [002 Assignments with Google and GitHub Classroom](slides/002-assignments-with-google-and-github-classroom.md)
 
 # Day 2
