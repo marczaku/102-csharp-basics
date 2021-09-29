@@ -18,9 +18,9 @@ But then again, all these exercises are meant to exercise one element of the lan
 
 | Official Grade | Internal Grade  |  Requirement |
 |--------------|-------|:-------------|
-|VG|Summa Cum laude (A*)| Completed the Battleships game. |
-|VG| Magna Cum Laude (A)| Completed the Tic-Tac-Toe game. |
-|VG|Cum Laude (B)| Completed the Nim game to a playable version. |
+|VG|Summa Cum laude (A*)| Completed the Nim-Game near-flawlessly including a smart and a simple A.I., or Tic-Tac-Toe or Battleships satisfyingly. |
+|VG| Magna Cum Laude (A)| Completed the Nim-Game including one A.I. player. |
+|VG|Cum Laude (B)| Completed the Nim-Game in a clean, playable state. |
 |G|Passed (C)| Completed all exercises including the Nim game, even if the code contains bugs / flaws. |
 |G|Barely Passed (D)| Put in an effort of solving all exercises which did not involve implementing a whole game. |
 |U|Insufficient (E)| Put in a visible effort of solving the exercises. |
