@@ -1,27 +1,23 @@
-# Welcome to this course on C# Basics.
-
-## Preclaimer
-
-⚠️ ⚠️ Warning: GitHub will not update your personal repositories with the updated course materials.\
-You will always find the full and updated course material over here: [C-Sharp Basics by Marc Zaku](http://github.com/marczaku/csharp-basics/)\
-I recommend to always click on above link once per day! ⚠️ ⚠️
+# C# 101
 
 ## Introduction
 
-This is a one week course to introduce you to the very basics of C# Console Programming. This week's course will conclude with a final assignment of implementing `Nim` as a Console Application and a bonus assignment for implementing either Tic-Tac-Toe or Battleships, too.
-
+This is a one week course to introduce you to the basics of C# Console Programming. We will start with a classic `Hello World`-Application, make our way through concepts like types, operations, code-flow and arrays and finish this course with our first game.
 
 # Grading
 
-For the grading, all other exercises don't matter, so you may go ahead and skip straight to the juicy stuff.\
-But then again, all these exercises are meant to exercise one element of the language that you just learnt through the slides, and give you the opportunity to test, if you have really understood what it's about.
+The grading allows you to skip the exercises, if you are confident enough.\
+I recommend following this path:
+- Beginner: Work your way through all exercises and then try yourself at implementing Nim.
+- Intermediate: You may start implementing Nim right away and then try Tic-Tac-Toe.
+- Advanced: Better score some save points with Nim first, but then you may try Battleships. But careful: it's challenging!
 
 | Official Grade | Internal Grade  |  Requirement |
 |--------------|-------|:-------------|
-|VG|Summa Cum laude (A*)| Completed the Nim-Game near-flawlessly including a smart and a simple A.I., or Tic-Tac-Toe or Battleships satisfyingly. |
-|VG| Magna Cum Laude (A)| Completed the Nim-Game including one A.I. player. |
-|VG|Cum Laude (B)| Completed the Nim-Game in a clean, playable state. |
-|G|Passed (C)| Completed all exercises including the Nim game, even if the code contains bugs / flaws. |
+|VG|Summa Cum laude (A*)| Completed the Nim-Game assignment near-flawlessly including a smart and a simple A.I., or Tic-Tac-Toe or Battleships satisfyingly. |
+|VG| Magna Cum Laude (A)| Completed the Nim-Game assignment including one A.I. player. |
+|VG|Cum Laude (B)| Completed the Nim-Game assignment in a clean, playable state. |
+|G|Passed (C)| Completed all exercises including the Nim game assignment, even if the code contains bugs / flaws. |
 |G|Barely Passed (D)| Put in an effort of solving all exercises which did not involve implementing a whole game. |
 |U|Insufficient (E)| Put in a visible effort of solving the exercises. |
 |U|Failed (F)| Did not hand in any code. |
