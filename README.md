@@ -23,7 +23,7 @@ I recommend following this path:
 |U|Failed (F)| Did not hand in any code. |
 -------------------------------
 
-# Day 1
+# Part 1
 ## Goal
 Understand, how to set up a C# Project from scratch, understand the Code involved with a simple Hello World Application
 ## Process
@@ -33,25 +33,25 @@ Understand, how to set up a C# Project from scratch, understand the Code involve
 - [ ] Run the Hello World Project through your IDE. In most IDE's, there's a Play Button in the Top Bar.
 - [ ] Start the Assignment on Google and GitHub Classroom. Check [Assignments with Google and GitHub Classroom](https://gist.github.com/marczaku/3b1853ee30575093b106ecc480d563b2)
 
-# Day 2
+# Part 2
 ## Goal
 Learn about the core language features for interacting with the console and storing and manipulating data using operators.
 ## Process
 - [ ] Work your way through the [Assignments 003.3.1: C# Console Basics 1](assignments/003.3.1-console-basics-1.md) and the slides mentioned in those assignments.
 
-# Day 3
+# Part 3
 ## Goal
 Learn about more complex data manipulation through Maths, Strings, Random Numbers and comparison, as well as code flow control through conditional code.
 ## Process
 - [ ] Work your way through the [Assignments 003.3.2: C# Console Basics 2](assignments/003.3.2-console-basics-2.md) and the slides mentioned in those assignments.
 
-# Day 4
+# Part 4
 ## Goal
 Learn about complex code flow controls through Loops and complex data storage through arrays.
 ## Process
 - [ ] Work your way through the [Assignments 003.3.3: C# Console Basics 3](assignments/003.3.3-console-basics-3.md) and the slides mentioned in those assignments.
 
-# Day 5
+# Part 5
 ## Goal
 Recap everything that you have learned this week through an advanced exercise. Pick either the Nim-Game, the Tic-Tac-Toe-Game or the Battleship-Game depending on your confidence in your abilities.\
 You are allowed to complete all three games, if you feel that you are up for the challenge.
