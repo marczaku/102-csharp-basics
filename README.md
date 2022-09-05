@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a one week course to introduce you to the basics of C# Console Programming. We will start with a classic `Hello World`-Application, make our way through concepts like types, operations, code-flow and arrays and finish this course with our first game.
+This course will introduce you to the basics of C# Console Programming. We will start with a classic `Hello World`-Application, make our way through concepts like types, operations, code-flow and arrays and finish this course with our first game.
 
 # Grading
 
