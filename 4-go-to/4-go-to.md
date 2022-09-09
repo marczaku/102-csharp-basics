@@ -1,4 +1,4 @@
-# Assignments 003.3.3 Console Basics 3
+# Exercises 4 - Go To
 
 For all of these exercises, it is recommended to:
 - Open GitHub Desktop Application

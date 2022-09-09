@@ -1,4 +1,4 @@
-# Assignments 003.3.1 Console Basics 2
+# Exercises 3 - Conditions
 
 For all of these exercises, it is recommended to:
 - Open GitHub Desktop Application

@@ -1,4 +1,4 @@
-# Assignments 003.3.1 Console Basics Game
+# Exercises 5 - Game On
 
 ## Game 1: Nim
 ### Instructions

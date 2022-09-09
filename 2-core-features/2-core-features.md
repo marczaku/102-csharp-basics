@@ -1,4 +1,4 @@
-# Assignments 003.3.1 Console Basics 1
+# Exercises 2 - Core Features
 
 For all of these exercises, it is recommended to:
 - Open GitHub Desktop Application
