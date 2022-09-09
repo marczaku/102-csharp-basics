@@ -1,4 +1,4 @@
-# Assignments 003.3.2 Console Basics 2
+Slides 3 - Conditions
 
 ## 8. Math
 

@@ -1,4 +1,4 @@
-## 0. First Things First - Install DotNet
+## Slides 1 - Hello World
 
 - Open https://dotnet.microsoft.com/download
 - Download and Install .NET 6.0

@@ -1,4 +1,4 @@
-# 003.3.1 Console Basics 1
+Slides 2 - Core Features
 
 In this Chapter, we will learn all the basics for writing small C# Console Applications, in which we can display text in the Console Window, ask the User for Input and store, modify and convert different kinds of data, like Text and Number.
 
