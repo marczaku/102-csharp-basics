@@ -1,5 +1,8 @@
 # Exercises 4 - Go To
 
+## Goal
+Learn about complex code flow controls through Loops and complex data storage through arrays.
+
 ## 13 - While-Loops: 
 
 ### Instructions

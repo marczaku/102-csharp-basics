@@ -1,5 +1,9 @@
 # Exercises 5 - Game On
 
+## Goal
+Recap everything that you have learned this week through an advanced exercise. Pick either the Nim-Game, the Tic-Tac-Toe-Game or the Battleship-Game depending on your confidence in your abilities.\
+You are allowed to complete all three games, if you feel that you are up for the challenge.
+
 ## Game 1: Nim
 ### Instructions
 - Create a Console Project named `Nim` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)

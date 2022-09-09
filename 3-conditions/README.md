@@ -1,5 +1,8 @@
 # Exercises 3 - Conditions
 
+## Goal
+Learn about more complex data manipulation through Maths, Strings, Random Numbers and comparison, as well as code flow control through conditional code.
+
 ## 8 - Math: 
 
 ### Instructions
@@ -38,7 +41,7 @@ Output:Pow:
 Output:20.270476188160853
 ```
 
-Need Help? [Read the Slides on Math](slides#8---math)
+Need Help? [Read the Slides on Math](slides#8-math)
 
 ## 9 - Strings: 
 
@@ -61,7 +64,7 @@ Input:31
 Output:Hello Marc Zaku, you are 31 years old!
 ```
 
-Need Help? [Read the Slides on Strings](slides#9---strings)
+Need Help? [Read the Slides on Strings](slides#9-strings)
 
 ## 10 - Boolean: 
 
