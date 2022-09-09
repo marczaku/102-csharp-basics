@@ -46,7 +46,7 @@ Need Help? <a href="slides#2-comments" target="_blank">Here's The Slides!</a>
 Output:5
 ```
 
-Need Help? <a href="slides#3-variables" target="_blank">Here's The Slides!</a>
+Need Help? <a href="./slides#3-variables" target="_blank">Here's The Slides!</a>
 
 ## 4 - Basic Data Types: 
 
