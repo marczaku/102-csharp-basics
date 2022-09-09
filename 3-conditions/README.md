@@ -38,7 +38,7 @@ Output:Pow:
 Output:20.270476188160853
 ```
 
-Need Help? [Read the Slides on Math](slides#8-math)
+Need Help? [Read the Slides on Math](slides#8---math)
 
 ## 9 - Strings: 
 
@@ -61,7 +61,7 @@ Input:31
 Output:Hello Marc Zaku, you are 31 years old!
 ```
 
-Need Help? [Read the Slides on Strings](slides#9-strings)
+Need Help? [Read the Slides on Strings](slides#9---strings)
 
 ## 10 - Boolean: 
 
@@ -83,7 +83,7 @@ Output:You are a teenager:False
 Output:You are a grown-up:True
 ```
 
-Need Help? [Read the Slides on Booleans](slides#10-boolean)
+Need Help? [Read the Slides on Booleans](slides#10---boolean)
 
 ## 11 - If..Else:
 
@@ -115,7 +115,7 @@ Output:The maximum is: 31
 Output:Your number is an odd number.
 ```
 
-Need Help? [Read the Slides on If..Else](slides#11-if--else)
+Need Help? [Read the Slides on If..Else](slides#11---if--else)
 
 ## 12 - Random:
 
@@ -154,7 +154,7 @@ Output:No Crit
 Output:Crit
 ```
 
-Need Help? [Read the Slides on Random](slides#12-random)
+Need Help? [Read the Slides on Random](slides#12---random)
 
 ## Done?
 Return to the [Overview](../../..#3-conditions)

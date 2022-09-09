@@ -16,7 +16,7 @@ Output:It's easy to print output...
 Output:...to the console!
 ```
 
-Need Help? [Read the Slides on Printing Output](slides#1-printing-output)
+Need Help? [Read the Slides on Printing Output](slides#1---printing-output)
 
 ## 2 - Comments: 
 
@@ -32,7 +32,7 @@ Need Help? [Read the Slides on Printing Output](slides#1-printing-output)
 Output:Hello, World!
 ```
 
-Need Help? [Read the Slides on Comments](slides#2-comments)
+Need Help? [Read the Slides on Comments](slides#2---comments)
 
 ## 3 - Variables: 
 
@@ -45,7 +45,7 @@ Need Help? [Read the Slides on Comments](slides#2-comments)
 Output:5
 ```
 
-Need Help? [Read the Slides on Variables](slides#3-variables)
+Need Help? [Read the Slides on Variables](slides#3---variables)
 
 ## 4 - Basic Data Types: 
 
@@ -66,7 +66,7 @@ Output:True
 Output:167
 ```
 
-Need Help? [Read the Slides on Basic Data Types](slides#4-basic-data-types)
+Need Help? [Read the Slides on Basic Data Types](slides#4---basic-data-types)
 
 ## 5 - Reading Input: 
 
@@ -82,7 +82,7 @@ Input:Marc
 Output:Hello, Marc!
 ```
 
-Need Help? [Read the Slides on Input](slides#5-reading-input)
+Need Help? [Read the Slides on Input](slides#5---reading-input)
 
 ## 6 - Conversion: 
 
@@ -104,7 +104,7 @@ Output:5
 Output: ??? (Observe)
 ```
 
-Need Help? [Read the Slides on Conversion](slides#6-conversion)
+Need Help? [Read the Slides on Conversion](slides#6---conversion)
 
 ## 7 - Operators: 
 
@@ -123,7 +123,7 @@ Add 7 to 5, multiply the result with 3, subtract 6 from that, divide that result
 Output:8
 ```
 
-Need Help? [Read the Slides on Oprators](slides#7-operators)
+Need Help? [Read the Slides on Oprators](slides#7---operators)
 
 ## Done?
 Return to the [Overview](../../../#2-core-features)
