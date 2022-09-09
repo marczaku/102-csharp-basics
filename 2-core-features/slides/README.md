@@ -1,4 +1,4 @@
-Slides 2 - Core Features
+# Slides 2 - Core Features
 
 In this Chapter, we will learn all the basics for writing small C# Console Applications, in which we can display text in the Console Window, ask the User for Input and store, modify and convert different kinds of data, like Text and Number.
 
@@ -112,6 +112,9 @@ Console.Write(5);
 ## 2. Comments
 
 Comments are used for documentation or for explaining complex or unclear code.
+
+https://github.com/marczaku/102-csharp-basics/blob/main/2-core-features/slides#2-comments
+https://github.com/marczaku/102-csharp-basics/tree/main/2-core-features/slides#2-comments
 
 ### Single-Line Comments
 - The most traditional comment is a simple single-line comment, started with `//`:

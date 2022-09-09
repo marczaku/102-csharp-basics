@@ -5,11 +5,7 @@ Learn about the core language features for interacting with the console and stor
 
 ## 1 - Printing Output: 
 
-### Instructions
-- Create a Console Project named `P1PrintingOutput` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
-- Create the following output:
-
-### Sample
+### Goal
 ```
 Output:Hello, World!
 Output:Welcome to 102 CSharp Basics!
@@ -17,9 +13,18 @@ Output:It's easy to print output...
 Output:...to the console!
 ```
 
+### Instructions
+- Create a Console Project named `P1PrintingOutput` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Create the following output:
+
 Need Help? [Here's The Slides!](slides/README.md#1-printing-output)
 
 ## 2 - Comments: 
+
+### Goal
+```
+Output:Hello, World!
+```
 
 ### Instructions
 - Create a Console Project named `P2Comments` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
@@ -28,27 +33,33 @@ Need Help? [Here's The Slides!](slides/README.md#1-printing-output)
   - the date
   - your e-mail address 
   - (this used to be common practice in a bunch of companies, but it has become kind of obsolete due to Version Control Systems providing the same information)
-### Sample
-```
-Output:Hello, World!
-```
+
 
 Need Help? [Here's The Slides!](slides/README.md#2-comments)
 
 ## 3 - Variables: 
 
-### Instructions
-- Create a Console Project named `P3Variables` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
-- assign the value 5 to a variable named `number` 
-- then output the variable to the console
-### Sample
+### Goal
 ```
 Output:5
 ```
 
+### Instructions
+- Create a Console Project named `P3Variables` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- assign the value 5 to a variable named `number` 
+- then output the variable to the console
+
 Need Help? [Here's The Slides!](slides/README.md#3-variables)
 
 ## 4 - Basic Data Types: 
+
+### Goal
+```
+Output:Hello World
+Output:0.3
+Output:True
+Output:167
+```
 
 ### Instructions
 - Create a Console Project named `P4DataTypes` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
@@ -59,33 +70,36 @@ Need Help? [Here's The Slides!](slides/README.md#3-variables)
 - Print it to the Console
 - Assign a7 in hexadecimal to a byte named `hexByte` 
 - Print it to the Console
-### Sample
-```
-Output:Hello World
-Output:0.3
-Output:True
-Output:167
-```
 
 Need Help? [Here's The Slides!](slides/README.md#4-basic-data-types)
 
 ## 5 - Reading Input: 
 
-### Instructions
-- Create a Console Project named `P5Input` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
-- Ask the user for their name
-- Assign the User's Input to a variable named `name`
-- Greet the user using his name:
-### Sample
+### Goal
 ```
 Output:What's your name?
 Input:Marc
 Output:Hello, Marc!
 ```
 
+### Instructions
+- Create a Console Project named `P5Input` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Ask the user for their name
+- Assign the User's Input to a variable named `name`
+- Greet the user using his name:
+
 Need Help? [Here's The Slides!](slides/README.md#5-reading-input)
 
 ## 6 - Conversion: 
+
+### Goal
+```
+Output:Give me a number.
+Input:5.6
+Output:5.6
+Output:5
+Output: ??? (Observe)
+```
 
 ### Instructions
 - Create a Console Project named `P6Conversion` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
@@ -96,18 +110,15 @@ Need Help? [Here's The Slides!](slides/README.md#5-reading-input)
 - Print the `int` to the console.
 - Convert the original variable to type `int`.
 - What happens?
-### Sample
-```
-Output:Give me a number.
-Input:5.6
-Output:5.6
-Output:5
-Output: ??? (Observe)
-```
 
 Need Help? [Here's The Slides!](slides/README.md#6-conversion)
 
 ## 7 - Operators: 
+
+### Goal
+```
+Output:8
+```
 
 ### Instructions
 - Create a Console Project named `P7Operators` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
@@ -119,10 +130,6 @@ Add 7 to 5, multiply the result with 3, subtract 6 from that, divide that result
 - Be careful about the order of execution here!!
   - (remember from Maths classes? Multiplication before Addition etc.?)
 - Hint: There is an operator that gets you the remainder after division
-### Sample
-```
-Output:8
-```
 
 Need Help? [Here's The Slides!](slides/README.md#7-operators)
 

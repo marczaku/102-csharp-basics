@@ -5,17 +5,7 @@ Learn about more complex data manipulation through Maths, Strings, Random Number
 
 ## 8 - Math: 
 
-### Instructions
-- Create a Console Project named `P8Math` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
-- Ask the user for two numbers
-- Convert each of them to `double`
-- Assign the values to two variables named `first` and `second`
-- Print the results of all the mathematical functions, which are shown on the slides, to the user one by one. 
-  - For the ones requiring two parameters, pass both variables. 
-  - For the ones requiring one parameter, use only the `first` variable. 
-  - For the ones requiring three parameters, pass `0` as the second parameter.
-
-### Sample
+### Goal
 ```
 Output:Give me your first number.
 Input:3.7
@@ -41,19 +31,21 @@ Output:Pow:
 Output:20.270476188160853
 ```
 
+### Instructions
+- Create a Console Project named `P8Math` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Ask the user for two numbers
+- Convert each of them to `double`
+- Assign the values to two variables named `first` and `second`
+- Print the results of all the mathematical functions, which are shown on the slides, to the user one by one. 
+  - For the ones requiring two parameters, pass both variables. 
+  - For the ones requiring one parameter, use only the `first` variable. 
+  - For the ones requiring three parameters, pass `0` as the second parameter.
+
 Need Help? [Here's The Slides!](slides/README.md#8-math)
 
 ## 9 - Strings: 
 
-### Instructions
-- Create a Console Project named `P9Strings` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
-- Ask the user for:
-  - his first name
-  - his last name
-  - his age 
-- Then, send an output to the console like this: 
-  - `Hello John Doe, you are 23 years old!`
-### Sample
+### Goal
 ```
 Output:What's your first name?
 Input:Marc
@@ -64,9 +56,27 @@ Input:31
 Output:Hello Marc Zaku, you are 31 years old!
 ```
 
+### Instructions
+- Create a Console Project named `P9Strings` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Ask the user for:
+  - his first name
+  - his last name
+  - his age 
+- Then, send an output to the console like this: 
+  - `Hello John Doe, you are 23 years old!`
+
 Need Help? [Here's The Slides!](slides/README.md#9-strings)
 
 ## 10 - Boolean: 
+
+### Goal
+```
+Output:What's your age?
+Input:31
+Output:You are a child:False
+Output:You are a teenager:False
+Output:You are a grown-up:True
+```
 
 ### Instructions
 - Create a Console Project named `P10Boolean` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
@@ -77,18 +87,21 @@ Need Help? [Here's The Slides!](slides/README.md#9-strings)
   - Save to a `bool`-variable named `isGrownup`, whether the age is greater 19
 - Then, print them all to the console like this:
   - `You are a child: True` etc. (see sample below)
-### Sample
-```
-Output:What's your age?
-Input:31
-Output:You are a child:False
-Output:You are a teenager:False
-Output:You are a grown-up:True
-```
 
 Need Help? [Here's The Slides!](slides/README.md#10---boolean)
 
 ## 11 - If..Else:
+
+### Goal
+```
+Output:What's your age?
+Input:31
+Output:You are a grown-up.
+Output:Give me another integer.
+Input:20
+Output:The maximum is: 31
+Output:Your number is an odd number.
+```
 
 ### Instructions
 - Create a Console Project named `P11IfElse` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
@@ -107,32 +120,12 @@ Need Help? [Here's The Slides!](slides/README.md#10---boolean)
 - Hint: There is an arithmetic operator on the operators-slide that helps you here :)
 - Hint: Don't feel ashamed asking another student or googling `How to find out if a number is even c#`
 - BONUS: Do the age-task using the ternary operator
-### Sample
-```
-Output:What's your age?
-Input:31
-Output:You are a grown-up.
-Output:Give me another integer.
-Input:20
-Output:The maximum is: 31
-Output:Your number is an odd number.
-```
 
 Need Help? [Read the Slides on If..Else](slides#11---if--else)
 
 ## 12 - Random:
 
-### Instructions
-- Create a Console Project named `P12Random` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
-- Ask the User for a Seed and store it in a variable.
-- Initialize Random with the given Seed.
-- Get three Random Numbers between 0 and 5 (including 0, excluding 5) and print them to the Console.
-- Get three Random Numbers between 0 and 0.5 (including 0, excluding 0.5) and print them to the Console.
-- Get three Random Numbers between 0.2 and 0.7 (including 0.2, excluding 0.7) and print them to the Console.
-- Ask the user for a Crit Chance between 0.0 (0%) and 1.0 (100%). 
-- Then simulate 5 Attacks and write, whether it’s a Crit. Or No Crit. 
-- Hint: Thanks to using the Seed, you should actually receive the same results as me below, if using the same Seed. Test it! :)
-### Sample
+### Goal
 ```
 Output:Please pass me a seed (integer).
 Input:1234
@@ -156,6 +149,17 @@ Output:No Crit
 Output:No Crit
 Output:Crit
 ```
+
+### Instructions
+- Create a Console Project named `P12Random` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Ask the User for a Seed and store it in a variable.
+- Initialize Random with the given Seed.
+- Get three Random Numbers between 0 and 5 (including 0, excluding 5) and print them to the Console.
+- Get three Random Numbers between 0 and 0.5 (including 0, excluding 0.5) and print them to the Console.
+- Get three Random Numbers between 0.2 and 0.7 (including 0.2, excluding 0.7) and print them to the Console.
+- Ask the user for a Crit Chance between 0.0 (0%) and 1.0 (100%). 
+- Then simulate 5 Attacks and write, whether it’s a Crit. Or No Crit. 
+- Hint: Thanks to using the Seed, you should actually receive the same results as me below, if using the same Seed. Test it! :)
 
 Need Help? [Here's The Slides!](slides/README.md#12---random)
 
