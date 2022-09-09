@@ -528,11 +528,16 @@ int add = 3 + 5; // 8
 int sub = 6 - 12; // -6
 int mul = 3 * 4; // 12
 int div = 9 / 3; // 3
+```
 
-// Modulo returns the rest after division:
-// 10 / 3 = 3 (+1 rest)
-// Proof 3 * 3 + 1 = 9 + 1 = 10
+- Another really cool one is the Modulo-Operator.
+- It returns the Remainder after Division.
+- e.g. `10 % 3`
+  - `10 / 3 = 3`
+  - Remainder: `1`
+  - Proof: `3*3+1 = 9+1 = 10`
 
+```cs
 int mod = 10 % 3; // = 1
 ```
 
@@ -544,7 +549,7 @@ Coins coins = new Coin() + new Coin();
 ### Operator Precedence
 
 Arithmetic operators are left-associative.\
-Generally speaking, this means, thaat operators are evaluated from left to right:
+Generally speaking, this means, that operators are evaluated from left to right:
 ```cs
 int result = 8 - 2 - 1; // 5
 ```
@@ -554,12 +559,12 @@ Above sample first solves the first operator:
 int result = (8 - 2) - 1; // 5
 ```
 
-We can use Parenthesis `()` to change the order of evaluation:
+We can use Parentheses `()` to change the order of evaluation:
 ```cs
 int result = 8 - (2 - 1); // 7
 ```
 
-This means, that Paranthesis `()` have precedence over mathematical operators. They have a higher priority and are evaluated first.
+This means, that Parantheses `()` have precedence over mathematical operators. They have a higher priority and are evaluated first.
 
 Keep in mind, that, just as in Mathematics, Division and Multiplication have higher precedence:
 ```cs

@@ -1,103 +1,60 @@
 # Slides 4 - Go To
 
-## 13. While Loops
-### while
-<img width="893" alt="image" src="https://user-images.githubusercontent.com/7360266/135168452-01a877f2-47b4-480e-9169-e0bf70870248.png">
+## Goal
+Learn about how we can go back in time (well at least lines of code) by using `goto`. This will allow us to run the same line(s) of code a second time. Or a hundredth. Or forever.
 
-- You can use the `while`-keyword in combination with a `bool`-expression to form
-  - a loop that repeats
-  - as long as the `bool`-expression returns true
-- The syntax is as follows:
+## 11. Go To
+
+### Label
+
+We can use Labels in our Code by using `LabelName:`-Syntax.\
+Here, you can see a few labels defined: 
+
 ```cs
-while(condition-expression){ // while-scope-start
-  // put the code here, that you want to repeat while the bool-expression is true
-} // while-scope-end
+GameStart:
+Console.WriteLine("Game Starting now.");
 ```
-- In the following example, the numbers `0`, `1` and `2` are printed to the console
-- When `i` reaches the value `3`
-  - the expression `i < 3` 
-  - becomes `3 < 3` 
-  - which is `false`
-  - therefore, the loop is interrupted and the code continues outside the loop
-```cs
-int i = 0;
 
-while (i < 3)
+```cs
+GameOver:
+Console.Writing("GAME OVER");
+```
+
+What's their use? They can be used in Combination with...
+
+### goto
+
+The `goto`-Statement allows us to jump to a label that we have defined before. Check out this example:
+
+```cs
+AskToBuy:
+Console.WriteLine("Please buy my game? Answer Yes or No.");
+string answer = Console.ReadLine();
+if (answer != "Yes")
 {
-  Console.WriteLine(i); // print i to the console
-  i++; // increase i by 1
+    goto AskToBuy;
 }
-```
-Output:
-```
-0
-1
-2
-```
-- Here is another example, where the application asks the user to agree.
-- It repeats the request until the user finally types in "yes".
-```cs
-bool userHasAgreed = false;
-// Repeat the loop while the user has not agreed, yet.
-while(userHasAgreed == false)
-{
-  // Ask the uer to agree.
-  Console.WriteLine("Please agree by writing 'yes'");
-  // If the user types in "yes"...
-  if(Console.ReadLine() == "yes")
-  {
-    // Then we take it as an agreement.
-    userHasAgreed = true;
-  }
-}
-```
-
-### do..while
-<img width="676" alt="image" src="https://user-images.githubusercontent.com/7360266/135168888-ef629d4b-5567-43a5-a3a7-fd06535ecc25.png">
-
-- `do`..`while`-loops are very similar to `while`-loops
-- but while `while`-loops first check the condition and then execute the code...
-- `do`..`while`-loops first execute the code and then check the condition
-  - Therefore, the code in the loop is guaranteed to execute AT LEAST once!
-```cs
-do { // while-scope-start
-  // put the code here, that you want to repeat while the bool-expression is true
-} // while-scope-end 
-while (condition-expression); 
-```
-- This example shows the difference pretty well:
-```cs
-int i = 100;
-
-do {
-  // First, print the current number
-  Console.WriteLine(i);
-  i++;
-}
-while (i < 3); // Then, check, if the current Number is still smaller than 3. If not, interrupt.
+Console.WriteLine("Thanks for buying my game!");
 ```
 
 Output:
 ```
-100
+Please buy my game? Answer Yes or No.
+No
+Please buy my game? Answer Yes or No.
+No
+Please buy my game? Answer Yes or No.
+Yes
+Thanks for buying my game!
+
 ```
-- This time, the number 100 was still printed, because it was printed first, and then it was checked, whether it's smaller than 3.
-- While the while loop would first check, whether 100 is smaller than 3 and then not print the number anymore.
-- Here is the user agreement example again, this time written as a do..while loop:
-```cs
-bool userHasAgreed;
-do
-{
-  // Ask the uer to agree.
-  Console.WriteLine("Please agree by writing 'yes'");
-  // If the user types in "yes"...
-  if(Console.ReadLine() == "yes")
-  {
-    // Then we take it as an agreement.
-    userHasAgreed = true;
-  } else {
-    userHasAgreed = false;  
-  }
-}
-while(userHasAgreed == false); // Repeat the loop while the user has not agreed, yet.
-```
+
+This is one way of increasing our Game Sales! :D
+
+### Bad Code?
+
+Note: The `goto`-Statement is often considered a very bad code-style. This is mostly due to programmers having discovered many reusable patterns where you'd usually use `goto` and having introduced more specialized Statements for each of these use cases (`for`, `while`, `do`, `break`, `continue`, ...) More on these keywords later :)
+
+### Not always!
+
+There is a few use cases, where the `goto`-Statement might perfectly or at least more cleanly solve your problem. It is definitely worth knowing and understanding in order to also understand, why other loop keywords have been introduced at a later point.

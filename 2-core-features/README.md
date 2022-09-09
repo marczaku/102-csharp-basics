@@ -14,7 +14,7 @@ Output:...to the console!
 ```
 
 ### Instructions
-- Create a Console Project named `P1PrintingOutput` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Create a Console Project named `P1PrintingOutput` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Create the following output:
 
 Need Help? [Here's The Slides!](slides/README.md#1-printing-output)
@@ -27,7 +27,7 @@ Output:Hello, World!
 ```
 
 ### Instructions
-- Create a Console Project named `P2Comments` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Create a Console Project named `P2Comments` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - add 3 lines of a comment in the top of the file to list up 
   - the author of the file
   - the date
@@ -45,7 +45,7 @@ Output:5
 ```
 
 ### Instructions
-- Create a Console Project named `P3Variables` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Create a Console Project named `P3Variables` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - assign the value 5 to a variable named `number` 
 - then output the variable to the console
 
@@ -62,7 +62,7 @@ Output:167
 ```
 
 ### Instructions
-- Create a Console Project named `P4DataTypes` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Create a Console Project named `P4DataTypes` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Assign the value Hello World to a variable named `outputString` - Then print it to the Console 
 - Assign 0.3 to a float variable named `decimalValue` 
 - Print it to the Console 
@@ -83,7 +83,7 @@ Output:Hello, Marc!
 ```
 
 ### Instructions
-- Create a Console Project named `P5Input` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Create a Console Project named `P5Input` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for their name
 - Assign the User's Input to a variable named `name`
 - Greet the user using his name:
@@ -102,7 +102,7 @@ Output: ??? (Observe)
 ```
 
 ### Instructions
-- Create a Console Project named `P6Conversion` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Create a Console Project named `P6Conversion` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for a Number and assign the result to a variable.
 - Convert the variable to Type `double`.
 - Print the `double` to the Console.
@@ -121,14 +121,14 @@ Output:8
 ```
 
 ### Instructions
-- Create a Console Project named `P7Operators` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Create a Console Project named `P7Operators` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Solve this Mathematic problem using code and output the result: 
 
 ```
 Add 7 to 5, multiply the result with 3, subtract 6 from that, divide that result by 1.2 and then take the remainder after division with 17 from that
 ```
 - Be careful about the order of execution here!!
-  - (remember from Maths classes? Multiplication before Addition etc.?)
+  - (Remember your Maths classes. Multiplication before Addition etc.)
 - Hint: There is an operator that gets you the remainder after division
 
 Need Help? [Here's The Slides!](slides/README.md#7-operators)

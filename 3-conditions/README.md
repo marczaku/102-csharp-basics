@@ -3,71 +3,7 @@
 ## Goal
 Learn about more complex data manipulation through Maths, Strings, Random Numbers and comparison, as well as code flow control through conditional code.
 
-## 8 - Math: 
-
-### Goal
-```
-Output:Give me your first number.
-Input:3.7
-Output:Give me your second number.
-Input:2.3
-Output:Max:
-Output:3.7
-Output:Min:
-Output:2.3
-Output:Sqrt:
-Output:1.9235384185619262
-Output:Abs:
-Output:3.7
-Output:Round:
-Output:4
-Output:Floor:
-Output:3
-Output:Ceil:
-Output:4
-Output:Clamp:
-Output:2.3
-Output:Pow:
-Output:20.270476188160853
-```
-
-### Instructions
-- Create a Console Project named `P8Math` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
-- Ask the user for two numbers
-- Convert each of them to `double`
-- Assign the values to two variables named `first` and `second`
-- Print the results of all the mathematical functions, which are shown on the slides, to the user one by one. 
-  - For the ones requiring two parameters, pass both variables. 
-  - For the ones requiring one parameter, use only the `first` variable. 
-  - For the ones requiring three parameters, pass `0` as the second parameter.
-
-Need Help? [Here's The Slides!](slides/README.md#8-math)
-
-## 9 - Strings: 
-
-### Goal
-```
-Output:What's your first name?
-Input:Marc
-Output:What's your last name?
-Input:Zaku
-Output:What's your age?
-Input:31
-Output:Hello Marc Zaku, you are 31 years old!
-```
-
-### Instructions
-- Create a Console Project named `P9Strings` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
-- Ask the user for:
-  - his first name
-  - his last name
-  - his age 
-- Then, send an output to the console like this: 
-  - `Hello John Doe, you are 23 years old!`
-
-Need Help? [Here's The Slides!](slides/README.md#9-strings)
-
-## 10 - Boolean: 
+## 8 - Boolean: 
 
 ### Goal
 ```
@@ -79,7 +15,7 @@ Output:You are a grown-up:True
 ```
 
 ### Instructions
-- Create a Console Project named `P10Boolean` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Create a Console Project named `P8Boolean` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for his age. Save it to a variable named `age`
 - First, do a few age-checks:
   - Save to a `bool`-variable named `isChild`, whether the age is between 0 and 12
@@ -88,9 +24,9 @@ Output:You are a grown-up:True
 - Then, print them all to the console like this:
   - `You are a child: True` etc. (see sample below)
 
-Need Help? [Here's The Slides!](slides/README.md#10---boolean)
+Need Help? [Here's The Slides!](slides/README.md#8---boolean)
 
-## 11 - If..Else:
+## 9 - If..Else:
 
 ### Goal
 ```
@@ -104,7 +40,7 @@ Output:Your number is an odd number.
 ```
 
 ### Instructions
-- Create a Console Project named `P11IfElse` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Create a Console Project named `P9IfElse` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for his age
 - Print one of these statements (the correct one): 
   - You are a grown-up 
@@ -121,9 +57,9 @@ Output:Your number is an odd number.
 - Hint: Don't feel ashamed asking another student or googling `How to find out if a number is even c#`
 - BONUS: Do the age-task using the ternary operator
 
-Need Help? [Read the Slides on If..Else](slides#11---if--else)
+Need Help? [Read the Slides on If..Else](slides#9---if--else)
 
-## 12 - Random:
+## 10 - Random:
 
 ### Goal
 ```
@@ -151,7 +87,7 @@ Output:Crit
 ```
 
 ### Instructions
-- Create a Console Project named `P12Random` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
+- Create a Console Project named `P10Random` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the User for a Seed and store it in a variable.
 - Initialize Random with the given Seed.
 - Get three Random Numbers between 0 and 5 (including 0, excluding 5) and print them to the Console.
@@ -161,7 +97,7 @@ Output:Crit
 - Then simulate 5 Attacks and write, whether it’s a Crit. Or No Crit. 
 - Hint: Thanks to using the Seed, you should actually receive the same results as me below, if using the same Seed. Test it! :)
 
-Need Help? [Here's The Slides!](slides/README.md#12---random)
+Need Help? [Here's The Slides!](slides/README.md#10---random)
 
 ## Done?
 Return to the [Overview](../../..#3-conditions)
