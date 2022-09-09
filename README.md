@@ -19,35 +19,35 @@ I recommend following this path:
 |VG|Cum Laude (B)| Completed the Nim-Game assignment in a clean, playable state. |
 |G|Passed (C)| Completed all exercises including the Nim game assignment, even if the code contains bugs / flaws. |
 |G|Barely Passed (D)| Put in an effort of solving all exercises which did not involve implementing a whole game. |
-|U|Insufficient (E)| Put in a visible effort of solving the exercises. |
-|U|Failed (F)| Did not hand in any code. |
+|IG|Insufficient (E)| Put in a visible effort of solving the exercises. |
+|IG|Failed (F)| Did not hand in any code. |
 -------------------------------
 
-# Part 1
+# 1 Hello World
 ## Goal
 Understand, how to set up a C# Project from scratch, understand the Code involved with a simple Hello World Application
 
 [Go here](1-hello-world)
 
-# Part 2
+# 2 Core Features
 ## Goal
 Learn about the core language features for interacting with the console and storing and manipulating data using operators.
 
 [Go here](2-core-features)
 
-# Part 3
+# 3 Conditions
 ## Goal
 Learn about more complex data manipulation through Maths, Strings, Random Numbers and comparison, as well as code flow control through conditional code.
 
 [Go here](3-conditions)
 
-# Part 4
+# 4 Go To
 ## Goal
 Learn about complex code flow controls through Loops and complex data storage through arrays.
 
 [Go here](4-go-to)
 
-# Part 5
+# 5 Game On
 ## Goal
 Recap everything that you have learned this week through an advanced exercise. Pick either the Nim-Game, the Tic-Tac-Toe-Game or the Battleship-Game depending on your confidence in your abilities.\
 You are allowed to complete all three games, if you feel that you are up for the challenge.
