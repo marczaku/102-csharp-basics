@@ -5,19 +5,8 @@ Recap everything that you have learned this week through an advanced exercise. P
 You are allowed to complete all three games, if you feel that you are up for the challenge.
 
 ## Game 1: Nim
-### Instructions
-- Create a Console Project named `Nim` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
-- Implement the game of Nim: 
-- 2 players 
-- 24 matches
-- Players take turns to draw matches
-- Each player may draw 1,2 or 3 matches (not more or less)
-- The Player who has to take last match loses
-- Make an ASCII-Art Display of the remaining matches `||||||||`
-- Implement an AI-Player
-  - Can you make it fun?
-  - Can you make it unbeatable?
-### Sample
+
+### Goal
 ```
 Output:Welcome to Nim!
 Output:|||||||||||||||||||||||| (24)
@@ -32,6 +21,19 @@ Output:The AI draws 2 matches.
 Output:|
 Output: You lose.
 ```
+
+### Instructions
+- Create a Console Project named `Nim` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Implement the game of Nim: 
+- 2 players 
+- 24 matches
+- Players take turns to draw matches
+- Each player may draw 1,2 or 3 matches (not more or less)
+- The Player who has to take last match loses
+- Make an ASCII-Art Display of the remaining matches `||||||||`
+- Implement an AI-Player
+  - Can you make it fun?
+  - Can you make it unbeatable?
 
 Need Help? [Read the Slides on Game On](slides)
 
