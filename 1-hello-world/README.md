@@ -11,4 +11,4 @@ Understand, how to set up a C# Project from scratch, understand the Code involve
 - [ ] Start the Assignment on Google and GitHub Classroom. Check [Assignments with Google and GitHub Classroom](https://gist.github.com/marczaku/3b1853ee30575093b106ecc480d563b2)
 
 ## Done?
-Return to the [Overview](../../..)
+Return to the [Overview](../../..#1-hello-world)
