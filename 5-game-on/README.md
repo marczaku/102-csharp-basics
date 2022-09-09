@@ -6,7 +6,7 @@ You are allowed to complete all three games, if you feel that you are up for the
 
 ## Game 1: Nim
 ### Instructions
-- Create a Console Project named `Nim` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `Nim` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - Implement the game of Nim: 
 - 2 players 
 - 24 matches

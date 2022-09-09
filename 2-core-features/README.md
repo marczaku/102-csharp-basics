@@ -6,7 +6,7 @@ Learn about the core language features for interacting with the console and stor
 ## 1 - Printing Output: 
 
 ### Instructions
-- Create a Console Project named `P1PrintingOutput` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P1PrintingOutput` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - Create the following output:
 
 ### Sample
@@ -17,12 +17,12 @@ Output:It's easy to print output...
 Output:...to the console!
 ```
 
-Need Help? [Read the Slides on Printing Output](slides#1-printing-output)
+Need Help? <a href="slides#1-printing-output" target="_blank">Here's The Slides!</a>
 
 ## 2 - Comments: 
 
 ### Instructions
-- Create a Console Project named `P2Comments` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P2Comments` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - add 3 lines of a comment in the top of the file to list up 
   - the author of the file
   - the date
@@ -33,12 +33,12 @@ Need Help? [Read the Slides on Printing Output](slides#1-printing-output)
 Output:Hello, World!
 ```
 
-Need Help? [Read the Slides on Comments](slides#2-comments)
+Need Help? <a href="slides#2-comments" target="_blank">Here's The Slides!</a>
 
 ## 3 - Variables: 
 
 ### Instructions
-- Create a Console Project named `P3Variables` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P3Variables` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - assign the value 5 to a variable named `number` 
 - then output the variable to the console
 ### Sample
@@ -46,12 +46,12 @@ Need Help? [Read the Slides on Comments](slides#2-comments)
 Output:5
 ```
 
-Need Help? [Read the Slides on Variables](slides#3-variables)
+Need Help? <a href="slides#3-variables" target="_blank">Here's The Slides!</a>
 
 ## 4 - Basic Data Types: 
 
 ### Instructions
-- Create a Console Project named `P4DataTypes` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P4DataTypes` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - Assign the value Hello World to a variable named `outputString` - Then print it to the Console 
 - Assign 0.3 to a float variable named `decimalValue` 
 - Print it to the Console 
@@ -67,12 +67,12 @@ Output:True
 Output:167
 ```
 
-Need Help? [Read the Slides on Basic Data Types](slides#4-basic-data-types)
+Need Help? <a href="slides#4-basic-data-types" target="_blank">Here's The Slides!</a>
 
 ## 5 - Reading Input: 
 
 ### Instructions
-- Create a Console Project named `P5Input` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P5Input` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - Ask the user for their name
 - Assign the User's Input to a variable named `name`
 - Greet the user using his name:
@@ -83,12 +83,12 @@ Input:Marc
 Output:Hello, Marc!
 ```
 
-Need Help? [Read the Slides on Input](slides#5-reading-input)
+Need Help? <a href="slides#5-reading-input" target="_blank">Here's The Slides!</a>
 
 ## 6 - Conversion: 
 
 ### Instructions
-- Create a Console Project named `P6Conversion` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P6Conversion` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - Ask the user for a Number and assign the result to a variable.
 - Convert the variable to Type `double`.
 - Print the `double` to the Console.
@@ -105,12 +105,12 @@ Output:5
 Output: ??? (Observe)
 ```
 
-Need Help? [Read the Slides on Conversion](slides#6-conversion)
+Need Help? <a href="slides#6-conversion" target="_blank">Here's The Slides!</a>
 
 ## 7 - Operators: 
 
 ### Instructions
-- Create a Console Project named `P7Operators` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P7Operators` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - Solve this Mathematic problem using code and output the result: 
 
 ```
@@ -124,7 +124,7 @@ Add 7 to 5, multiply the result with 3, subtract 6 from that, divide that result
 Output:8
 ```
 
-Need Help? [Read the Slides on Oprators](slides#7-operators)
+Need Help? <a href="slides#7-operators" target="_blank">Here's The Slides!</a>
 
 ## Done?
 Return to the [Overview](../../../#2-core-features)

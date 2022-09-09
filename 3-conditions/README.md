@@ -6,7 +6,7 @@ Learn about more complex data manipulation through Maths, Strings, Random Number
 ## 8 - Math: 
 
 ### Instructions
-- Create a Console Project named `P8Math` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P8Math` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - Ask the user for two numbers
 - Convert each of them to `double`
 - Assign the values to two variables named `first` and `second`
@@ -41,12 +41,12 @@ Output:Pow:
 Output:20.270476188160853
 ```
 
-Need Help? [Read the Slides on Math](slides#8-math)
+Need Help? <a href="slides#8-math" target="_blank">Here's The Slides!</a>
 
 ## 9 - Strings: 
 
 ### Instructions
-- Create a Console Project named `P9Strings` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P9Strings` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - Ask the user for:
   - his first name
   - his last name
@@ -64,12 +64,12 @@ Input:31
 Output:Hello Marc Zaku, you are 31 years old!
 ```
 
-Need Help? [Read the Slides on Strings](slides#9-strings)
+Need Help? <a href="slides#9-strings" target="_blank">Here's The Slides!</a>
 
 ## 10 - Boolean: 
 
 ### Instructions
-- Create a Console Project named `P10Boolean` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P10Boolean` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - Ask the user for his age. Save it to a variable named `age`
 - First, do a few age-checks:
   - Save to a `bool`-variable named `isChild`, whether the age is between 0 and 12
@@ -86,12 +86,12 @@ Output:You are a teenager:False
 Output:You are a grown-up:True
 ```
 
-Need Help? [Read the Slides on Booleans](slides#10---boolean)
+Need Help? <a href="slides#10---boolean" target="_blank">Here's The Slides!</a>
 
 ## 11 - If..Else:
 
 ### Instructions
-- Create a Console Project named `P11IfElse` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P11IfElse` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - Ask the user for his age
 - Print one of these statements (the correct one): 
   - You are a grown-up 
@@ -123,7 +123,7 @@ Need Help? [Read the Slides on If..Else](slides#11---if--else)
 ## 12 - Random:
 
 ### Instructions
-- Create a Console Project named `P12Random` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P12Random` <a href="https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2" target="_blank">How To?</a>
 - Ask the User for a Seed and store it in a variable.
 - Initialize Random with the given Seed.
 - Get three Random Numbers between 0 and 5 (including 0, excluding 5) and print them to the Console.
@@ -157,7 +157,7 @@ Output:No Crit
 Output:Crit
 ```
 
-Need Help? [Read the Slides on Random](slides#12---random)
+Need Help? <a href="slides#12---random" target="_blank">Here's The Slides!</a>
 
 ## Done?
 Return to the [Overview](../../..#3-conditions)
