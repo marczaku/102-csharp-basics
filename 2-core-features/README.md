@@ -17,7 +17,7 @@ Output:It's easy to print output...
 Output:...to the console!
 ```
 
-Need Help? <a href="slides#1-printing-output" target="_blank">Here's The Slides!</a>
+Need Help? [Here's The Slides!](slides/README.md#1-printing-output)
 
 ## 2 - Comments: 
 
@@ -33,7 +33,7 @@ Need Help? <a href="slides#1-printing-output" target="_blank">Here's The Slides!
 Output:Hello, World!
 ```
 
-Need Help? <a href="slides#2-comments" target="_blank">Here's The Slides!</a>
+Need Help? [Here's The Slides!](slides/README.md#2-comments)
 
 ## 3 - Variables: 
 
@@ -46,7 +46,7 @@ Need Help? <a href="slides#2-comments" target="_blank">Here's The Slides!</a>
 Output:5
 ```
 
-Need Help? <a href="./slides/README.md#3-variables" target="_blank">Here's The Slides!</a>
+Need Help? [Here's The Slides!](slides/README.md#3-variables)
 
 ## 4 - Basic Data Types: 
 
@@ -67,7 +67,7 @@ Output:True
 Output:167
 ```
 
-Need Help? <a href="slides#4-basic-data-types" target="_blank">Here's The Slides!</a>
+Need Help? [Here's The Slides!](slides/README.md#4-basic-data-types)
 
 ## 5 - Reading Input: 
 
@@ -83,7 +83,7 @@ Input:Marc
 Output:Hello, Marc!
 ```
 
-Need Help? <a href="slides#5-reading-input" target="_blank">Here's The Slides!</a>
+Need Help? [Here's The Slides!](slides/README.md#5-reading-input)
 
 ## 6 - Conversion: 
 
@@ -105,7 +105,7 @@ Output:5
 Output: ??? (Observe)
 ```
 
-Need Help? <a href="slides#6-conversion" target="_blank">Here's The Slides!</a>
+Need Help? [Here's The Slides!](slides/README.md#6-conversion)
 
 ## 7 - Operators: 
 
@@ -124,7 +124,7 @@ Add 7 to 5, multiply the result with 3, subtract 6 from that, divide that result
 Output:8
 ```
 
-Need Help? <a href="slides#7-operators" target="_blank">Here's The Slides!</a>
+Need Help? [Here's The Slides!](slides/README.md#7-operators)
 
 ## Done?
 Return to the [Overview](../../../#2-core-features)

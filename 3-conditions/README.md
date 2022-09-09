@@ -41,7 +41,7 @@ Output:Pow:
 Output:20.270476188160853
 ```
 
-Need Help? <a href="slides#8-math" target="_blank">Here's The Slides!</a>
+Need Help? [Here's The Slides!](slides/README.md#8-math)
 
 ## 9 - Strings: 
 
@@ -64,7 +64,7 @@ Input:31
 Output:Hello Marc Zaku, you are 31 years old!
 ```
 
-Need Help? <a href="slides#9-strings" target="_blank">Here's The Slides!</a>
+Need Help? [Here's The Slides!](slides/README.md#9-strings)
 
 ## 10 - Boolean: 
 
@@ -86,7 +86,7 @@ Output:You are a teenager:False
 Output:You are a grown-up:True
 ```
 
-Need Help? <a href="slides#10---boolean" target="_blank">Here's The Slides!</a>
+Need Help? [Here's The Slides!](slides/README.md#10---boolean)
 
 ## 11 - If..Else:
 
@@ -157,7 +157,7 @@ Output:No Crit
 Output:Crit
 ```
 
-Need Help? <a href="slides#12---random" target="_blank">Here's The Slides!</a>
+Need Help? [Here's The Slides!](slides/README.md#12---random)
 
 ## Done?
 Return to the [Overview](../../..#3-conditions)
