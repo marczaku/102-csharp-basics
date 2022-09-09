@@ -33,6 +33,8 @@ Output:|
 Output: You lose.
 ```
 
+Need Help? [Read the Slides on Game On](slides)
+
 ## Game 2: Tic, Tac, Toe (BONUS)
 ### Instructions
 - Create a Console Project named `TicTacToe`
