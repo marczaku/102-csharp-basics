@@ -3,7 +3,7 @@
 
 
 ## 1 - Printing Output: 
-[Read the Slides on Printing Output](slides#1-printing-output)
+
 ### Instructions
 - Create a Console Project named `P1PrintingOutput` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Create the following output:
@@ -16,8 +16,10 @@ Output:It's easy to print output...
 Output:...to the console!
 ```
 
+Need Help? [Read the Slides on Printing Output](slides#1-printing-output)
+
 ## 2 - Comments: 
-[Read the Slides on Comments](slides#2-comments)
+
 ### Instructions
 - Create a Console Project named `P2Comments` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - add 3 lines of a comment in the top of the file to list up 
@@ -30,8 +32,10 @@ Output:...to the console!
 Output:Hello, World!
 ```
 
+Need Help? [Read the Slides on Comments](slides#2-comments)
+
 ## 3 - Variables: 
-[Read the Slides on Variables](slides#3-variables)
+
 ### Instructions
 - Create a Console Project named `P3Variables` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - assign the value 5 to a variable named `number` 
@@ -41,8 +45,10 @@ Output:Hello, World!
 Output:5
 ```
 
+Need Help? [Read the Slides on Variables](slides#3-variables)
+
 ## 4 - Basic Data Types: 
-[Read the Slides on Basic Data Types](slides#4-basic-data-types)
+
 ### Instructions
 - Create a Console Project named `P4DataTypes` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Assign the value Hello World to a variable named `outputString` - Then print it to the Console 
@@ -60,8 +66,10 @@ Output:True
 Output:167
 ```
 
+Need Help? [Read the Slides on Basic Data Types](slides#4-basic-data-types)
+
 ## 5 - Reading Input: 
-[Read the Slides on Input](slides#5-reading-input)
+
 ### Instructions
 - Create a Console Project named `P5Input` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for their name
@@ -74,9 +82,10 @@ Input:Marc
 Output:Hello, Marc!
 ```
 
+Need Help? [Read the Slides on Input](slides#5-reading-input)
 
 ## 6 - Conversion: 
-[Read the Slides on Conversion](slides#6-conversion)
+
 ### Instructions
 - Create a Console Project named `P6Conversion` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for a Number and assign the result to a variable.
@@ -95,8 +104,10 @@ Output:5
 Output: ??? (Observe)
 ```
 
+Need Help? [Read the Slides on Conversion](slides#6-conversion)
+
 ## 7 - Operators: 
-[Read the Slides on Oprators](slides#7-operators)
+
 ### Instructions
 - Create a Console Project named `P7Operators` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Solve this Mathematic problem using code and output the result: 
@@ -111,6 +122,8 @@ Add 7 to 5, multiply the result with 3, subtract 6 from that, divide that result
 ```
 Output:8
 ```
+
+Need Help? [Read the Slides on Oprators](slides#7-operators)
 
 ## Done?
 Return to the [Overview](../../../#2-core-features)

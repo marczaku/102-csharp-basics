@@ -1,19 +1,7 @@
 # Exercises 3 - Conditions
 
-For all of these exercises, it is recommended to:
-- Open GitHub Desktop Application
-- Select your Assignment Repository (named `gp21-21-0927-csharp-basics-nim-[yourusername]`)
-- Then, from the Menu Bar in GitHub Desktop, select `Repository` > `Open in Terminal` (or `Open in Command Prompt`)
-- Create a Project using `dotnet new console -o ProjectName` (replace the Project Name with the name given by each Exercise)
-- Add a `.gitignore` to the folder of the newly created Project:
-  - First, navigate to the new folder: `cd [ProjectName]`
-  - Then, use `dotnet new gitignore`
-  - Do NOT commit any files in `/bin/` or `/obj/`, please!
-- Open the Project in the IDE of your choice. Remember: Open the `.csproj` file!!
-- Then follow the instructions of the exercise
-
 ## 8 - Math: 
-[Read the Slides on Math](slides#8-math)
+
 ### Instructions
 - Create a Console Project named `P8Math` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for two numbers
@@ -50,8 +38,10 @@ Output:Pow:
 Output:20.270476188160853
 ```
 
+Need Help? [Read the Slides on Math](slides#8-math)
+
 ## 9 - Strings: 
-[Read the Slides on Strings](slides#9-strings)
+
 ### Instructions
 - Create a Console Project named `P9Strings` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for:
@@ -71,8 +61,10 @@ Input:31
 Output:Hello Marc Zaku, you are 31 years old!
 ```
 
+Need Help? [Read the Slides on Strings](slides#9-strings)
+
 ## 10 - Boolean: 
-[Read the Slides on Booleans](slides#10-boolean)
+
 ### Instructions
 - Create a Console Project named `P10Boolean` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for his age. Save it to a variable named `age`
@@ -91,8 +83,10 @@ Output:You are a teenager:False
 Output:You are a grown-up:True
 ```
 
+Need Help? [Read the Slides on Booleans](slides#10-boolean)
+
 ## 11 - If..Else:
-[Read the Slides on If..Else](slides#11-if--else)
+
 ### Instructions
 - Create a Console Project named `P11IfElse` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for his age
@@ -121,9 +115,10 @@ Output:The maximum is: 31
 Output:Your number is an odd number.
 ```
 
+Need Help? [Read the Slides on If..Else](slides#11-if--else)
 
 ## 12 - Random:
-[Read the Slides on Random](slides#12-random)
+
 ### Instructions
 - Create a Console Project named `P12Random` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the User for a Seed and store it in a variable.
@@ -158,6 +153,8 @@ Output:No Crit
 Output:No Crit
 Output:Crit
 ```
+
+Need Help? [Read the Slides on Random](slides#12-random)
 
 ## Done?
 Return to the [Overview](../../..#3-conditions)

@@ -1,24 +1,13 @@
 # Exercises 4 - Go To
 
-For all of these exercises, it is recommended to:
-- Open GitHub Desktop Application
-- Select your Assignment Repository (named `gp21-21-0927-csharp-basics-nim-[yourusername]`)
-- Then, from the Menu Bar in GitHub Desktop, select `Repository` > `Open in Terminal` (or `Open in Command Prompt`)
-- Create a Project using `dotnet new console -o ProjectName` (replace the Project Name with the name given by each Exercise)
-- Add a `.gitignore` to the folder of the newly created Project:
-  - First, navigate to the new folder: `cd [ProjectName]`
-  - Then, use `dotnet new gitignore`
-  - Do NOT commit any files in `/bin/` or `/obj/`, please!
-- Open the Project in the IDE of your choice. Remember: Open the `.csproj` file!!
-- Then follow the instructions of the exercise
-
 ## 13 - While-Loops: 
-[Read the Slides on While-Loops](slides#13-while-loops)
+
 ### Instructions
 - You are ready to implement the first game now!
 - Please follow the Instructions on [Game 1 - Nim](003.3.4-console-basics-game.md#game-1-nim)
 - No, there is no other exercise for learning while-loops at this point.
 
+Need Help? [Read the Slides on While-Loops](slides#13-while-loops)
 
 ---
 
