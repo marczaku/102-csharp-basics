@@ -13,13 +13,14 @@ For all of these exercises, it is recommended to:
 - Then follow the instructions of the exercise
 
 ## 13 - While-Loops: 
-[Read the Slides on While-Loops](../slides/003.3.3-console-basics-3.md#13-while-loops)
+[Read the Slides on While-Loops](slides#13-while-loops)
 ### Instructions
 - You are ready to implement the first game now!
 - Please follow the Instructions on [Game 1 - Nim](003.3.4-console-basics-game.md#game-1-nim)
 - No, there is no other exercise for learning while-loops at this point.
 
+
 ---
-At this point, you have completed week 1's set of assignments.
-Feel free to take a look at whatever sparks your interest or take some time off :)
----
+
+## Done?
+Return to the [Overview](..)

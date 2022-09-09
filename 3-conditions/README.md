@@ -13,9 +13,9 @@ For all of these exercises, it is recommended to:
 - Then follow the instructions of the exercise
 
 ## 8 - Math: 
-[Read the Slides on Math](../slides/003.3.2-console-basics-2.md#8-math)
+[Read the Slides on Math](slides#8-math)
 ### Instructions
-- Create a Console Project named `P8Math`
+- Create a Console Project named `P8Math` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for two numbers
 - Convert each of them to `double`
 - Assign the values to two variables named `first` and `second`
@@ -51,9 +51,9 @@ Output:20.270476188160853
 ```
 
 ## 9 - Strings: 
-[Read the Slides on Strings](../slides/003.3.2-console-basics-2.md#9-strings)
+[Read the Slides on Strings](slides#9-strings)
 ### Instructions
-- Create a Console Project named `P9Strings`
+- Create a Console Project named `P9Strings` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for:
   - his first name
   - his last name
@@ -72,9 +72,9 @@ Output:Hello Marc Zaku, you are 31 years old!
 ```
 
 ## 10 - Boolean: 
-[Read the Slides on Booleans](../slides/003.3.2-console-basics-2.md#10-boolean)
+[Read the Slides on Booleans](slides#10-boolean)
 ### Instructions
-- Create a Console Project named `P1Boolean`
+- Create a Console Project named `P10Boolean` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for his age. Save it to a variable named `age`
 - First, do a few age-checks:
   - Save to a `bool`-variable named `isChild`, whether the age is between 0 and 12
@@ -92,9 +92,9 @@ Output:You are a grown-up:True
 ```
 
 ## 11 - If..Else:
-[Read the Slides on If..Else](../slides/003.3.2-console-basics-2.md#11-if--else)
+[Read the Slides on If..Else](slides#11-if--else)
 ### Instructions
-- Create a Console Project named `P11IfElse`
+- Create a Console Project named `P11IfElse` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for his age
 - Print one of these statements (the correct one): 
   - You are a grown-up 
@@ -123,9 +123,9 @@ Output:Your number is an odd number.
 
 
 ## 12 - Random:
-[Read the Slides on Random](../slides/003.3.2-console-basics-2.md#12-random)
+[Read the Slides on Random](slides#12-random)
 ### Instructions
-- Create a Console Project named `P12Random`
+- Create a Console Project named `P12Random` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the User for a Seed and store it in a variable.
 - Initialize Random with the given Seed.
 - Get three Random Numbers between 0 and 5 (including 0, excluding 5) and print them to the Console.
@@ -158,3 +158,6 @@ Output:No Crit
 Output:No Crit
 Output:Crit
 ```
+
+## Done?
+Return to the [Overview](..)

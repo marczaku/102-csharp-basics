@@ -9,3 +9,6 @@ Understand, how to set up a C# Project from scratch, understand the Code involve
 - [ ] Open the Hello World Project `HelloWorld.csproj` in your IDE
 - [ ] Run the Hello World Project through your IDE. In most IDE's, there's a Play Button in the Top Bar.
 - [ ] Start the Assignment on Google and GitHub Classroom. Check [Assignments with Google and GitHub Classroom](https://gist.github.com/marczaku/3b1853ee30575093b106ecc480d563b2)
+
+## Done?
+Return to the [Overview](..)

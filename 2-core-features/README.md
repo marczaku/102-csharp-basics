@@ -1,21 +1,11 @@
 # Exercises 2 - Core Features
 
-For all of these exercises, it is recommended to:
-- Open GitHub Desktop Application
-- Select your Assignment Repository (named `gp21-21-0927-csharp-basics-nim-[yourusername]`)
-- Then, from the Menu Bar in GitHub Desktop, select `Repository` > `Open in Terminal` (or `Open in Command Prompt`)
-- Create a Project using `dotnet new console -o ProjectName` (replace the Project Name with the name given by each Exercise)
-- Add a `.gitignore` to the folder of the newly created Project
-  - First, navigate to the new folder: `cd [ProjectName]`
-  - Then, use `dotnet new gitignore`
-  - Do NOT commit any files in `/bin/` or `/obj/`, please!
-- Open the Project in the IDE of your choice. Remember: Open the `.csproj` file!!
-- Then follow the instructions of the exercise
+
 
 ## 1 - Printing Output: 
-[Read the Slides on Printing Output](../slides/003.3.1-console-basics-1.md#1-printing-output)
+[Read the Slides on Printing Output](slides#1-printing-output)
 ### Instructions
-- Create a Console Project named `P1PrintingOutput`
+- Create a Console Project named `P1PrintingOutput` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Create the following output:
 
 ### Sample
@@ -27,9 +17,9 @@ Output:...to the console!
 ```
 
 ## 2 - Comments: 
-[Read the Slides on Comments](../slides/003.3.1-console-basics-1.md#2-comments)
+[Read the Slides on Comments](slides#2-comments)
 ### Instructions
-- Create a Console Project named `P2Comments`
+- Create a Console Project named `P2Comments` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - add 3 lines of a comment in the top of the file to list up 
   - the author of the file
   - the date
@@ -41,9 +31,9 @@ Output:Hello, World!
 ```
 
 ## 3 - Variables: 
-[Read the Slides on Variables](../slides/003.3.1-console-basics-1.md#3-variables)
+[Read the Slides on Variables](slides#3-variables)
 ### Instructions
-- Create a Console Project named `P3Variables`
+- Create a Console Project named `P3Variables` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - assign the value 5 to a variable named `number` 
 - then output the variable to the console
 ### Sample
@@ -52,9 +42,9 @@ Output:5
 ```
 
 ## 4 - Basic Data Types: 
-[Read the Slides on Basic Data Types](../slides/003.3.1-console-basics-1.md#4-basic-data-types)
+[Read the Slides on Basic Data Types](slides#4-basic-data-types)
 ### Instructions
-- Create a Console Project named `P4DataTypes`
+- Create a Console Project named `P4DataTypes` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Assign the value Hello World to a variable named `outputString` - Then print it to the Console 
 - Assign 0.3 to a float variable named `decimalValue` 
 - Print it to the Console 
@@ -71,9 +61,9 @@ Output:167
 ```
 
 ## 5 - Reading Input: 
-[Read the Slides on Input](../slides/003.3.1-console-basics-1.md#5-reading-input)
+[Read the Slides on Input](slides#5-reading-input)
 ### Instructions
-- Create a Console Project named `P5Input`
+- Create a Console Project named `P5Input` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for their name
 - Assign the User's Input to a variable named `name`
 - Greet the user using his name:
@@ -86,9 +76,9 @@ Output:Hello, Marc!
 
 
 ## 6 - Conversion: 
-[Read the Slides on Conversion](../slides/003.3.1-console-basics-1.md#6-conversion)
+[Read the Slides on Conversion](slides#6-conversion)
 ### Instructions
-- Create a Console Project named `P6Conversion`
+- Create a Console Project named `P6Conversion` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for a Number and assign the result to a variable.
 - Convert the variable to Type `double`.
 - Print the `double` to the Console.
@@ -106,9 +96,9 @@ Output: ??? (Observe)
 ```
 
 ## 7 - Operators: 
-[Read the Slides on Oprators](../slides/003.3.1-console-basics-1.md#7-operators)
+[Read the Slides on Oprators](slides#7-operators)
 ### Instructions
-- Create a Console Project named `P7Operators`
+- Create a Console Project named `P7Operators` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Solve this Mathematic problem using code and output the result: 
 
 ```
@@ -121,3 +111,6 @@ Add 7 to 5, multiply the result with 3, subtract 6 from that, divide that result
 ```
 Output:8
 ```
+
+## Done?
+Return to the [Overview](..)

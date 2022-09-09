@@ -2,7 +2,7 @@
 
 ## Game 1: Nim
 ### Instructions
-- Create a Console Project named `Nim`
+- Create a Console Project named `Nim` [How To?](https://gist.github.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Implement the game of Nim: 
 - 2 players 
 - 24 matches
@@ -150,3 +150,6 @@ Output:8
 ...
 Output: Player Wins!
 ```
+
+## Done?
+Do some Research of your own. This is all I can teach you in this course :)
