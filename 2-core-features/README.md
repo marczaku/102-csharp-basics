@@ -15,7 +15,7 @@ Output:...to the console!
 
 ### Instructions
 - Create a Console Project named `P1PrintingOutput` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
-- Create the following output:
+- Create the output above.
 
 Need Help? [Here's The Slides!](slides/README.md#1-printing-output)
 

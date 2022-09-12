@@ -1,17 +1,5 @@
 # Slides 2 - Core Features
 
-In this Chapter, we will learn all the basics for writing small C# Console Applications, in which we can display text in the Console Window, ask the User for Input and store, modify and convert different kinds of data, like Text and Number.
-
-## Overview 
-- [0. Script Execution](#0-Script-Execution)
-- [1. Printing Output](#1-Printing-Output)
-- [2. Comments](#2-Comments)
-- [3. Variables](#3-Variables)
-- [4. Basic Data Types](#4-Basic-Data-Types)
-- [5. Reading Input](#5-Reading-Input)
-- [6. Conversion](#6-Conversion)
-- [7. Operators](#7-Operators)
-
 ## 0. Script Execution
 
 - C# Code is executed from top to bottom.
@@ -234,7 +222,7 @@ marc = "07119181881"; // Now, the ☎️ for 👤 marc has changed.
 Console.WriteLine(marc); // Output: 07119181881
 ```
 
-### Variable Declaration
+### Variable Definition
 - Variables are used to store data
 - Variables consist of a Type and a Name. (More on Types in the next Chapter)
 - This is, how you declare a variable:
@@ -275,15 +263,22 @@ Console.WriteLine(score); // This prints 99
 ```
 
 - You can assign a new value to a variable anytime:
-```
+```cs
 score = 30;
 Console.WriteLine(z); // This prints 30
 score = 10;
 Console.WriteLine(z); // This prints 10
 ```
 
-### Multiple Declarations
-You can declare multiple variables of the same type by separating the variable names by a comma `,`:
+### Variable Validity
+- A variable is only accessible below the line where it is defined
+```cs
+Console.WriteLine(a); // ERROR, you can only use `a` AFTER it has been defined.
+int a = 5; // This is, where a is defined.
+```
+
+### Multiple Definition
+You can define multiple variables of the same type by separating the variable names by a comma `,`:
 ```cs
 int a, b, c;
 ```
@@ -311,83 +306,9 @@ a = b = c = 5;
 ---
 
 ## 3.1 Scope
-
-Scopes are a very important concept in C#. Imagine a huge application like World of Warcraft. The code must contain Millions of variables. You might imagine, that after a short amount of time, all variable names would be in use already. To avoid conflicts here, variables only exist within a limited scope of the application, whereever it is needed. It is similar to Family Names and addresses. How many people in your country have the same Family Name? But that's no problem for our Addresses. Within the same house, it is very unlikely, that multiple people have the same Family Name. And if they do, then they usually put their first name's first letter on the Mailbox, too. In this example, the Family name would be a variable, and the House's address the scope.
-
-### Scope Delimiter
-- Scopes in C# are started using `{` and ended using `}`
-```cs
-public static void Main() { // Method Scope Start
-  int a = 5;
-} // Method Scope End
-```
-
-### Nested Scopes
-- Scopes can be nested. Every `{` must have a matching `}`
-- Each `}` closes the last opened, unclosed `}`:
-
-```cs
-{ // Scope A Start
-   { // Scope B Start
-   } // Scope B End
-   
-   { // Scope C Start
-   } // Scope C End
-} // Scope A End
-```
-
-### Variable Scope
-- A variable is valid within its scope only, that is, between the previous `{` and the matching `}`
-
-```cs
-public static void Main() { // Variable `a` Scope Start
-  int a = 5; // `a` is declared here, its scope is the closest, previous `{`
-  {
-    Console.WriteLine(a); // `a` is still valid within the nested scope
-  }
-} // Variable `a` Scope End
-```
-
-- Outside of the scope, you can NOT access the variable!
-```cs
-public static void Main() {
-  {
-    int a = 5;
-  }
-  Console.WriteLine(a); // Error, a is not defined in this scope.
-}
-```
-
-- You can NOT declare two variables with the same name within the same scope:
-```cs
-{
-  int z = 2;
-  int z = 3; // ERROR: Variable named `z` is declared already
-}
-{
-   int z; // This is Valid again, the previous `z` variable's Scope has ended already.
-}
-```
-
-- But of course, you can still assign new values to existing variables:
-
-```cs
-{
-  int z = 2;
-  z = 3; // This is fine, we assign a new value to the existing variable.
-}
-```
-
-- A variable is only usuable after the line where it is declared
-```cs
-public static void Main() { // Variable scope start
-  Console.WriteLine(a); // ERROR, you can only use `a` in the line AFTER it has been declared.
-  int a = 5; // This is, where it is declared.
-} // Variable scope end
-```
+I have moved Scopes to `103-csharp-functions-and-arrays`
 
 ---
-
 ## 4. Basic Data Types
 
 - C# is a **type-safe** language.
