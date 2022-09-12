@@ -31,7 +31,7 @@ Output: That's the number! Well played!
 - Bonus: Add a Try-Counter. Tell the User, how many guesses he needed.
 - Bonus: Add a Maximum Try Number. After 10 attempts, the Player loses.
 
-Need Help? [Read the Slides on Go-To](slides#11---go-to)
+Need Help? [Read the Slides on Go-To](slides#11-go-to)
 
 ---
 

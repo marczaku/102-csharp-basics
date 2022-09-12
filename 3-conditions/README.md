@@ -24,7 +24,7 @@ Output:You are a grown-up:True
 - Then, print them all to the console like this:
   - `You are a child: True` etc. (see sample below)
 
-Need Help? [Here's The Slides!](slides/README.md#8---boolean)
+Need Help? [Here's The Slides!](slides/README.md#8-boolean)
 
 ## 9 - If..Else:
 
@@ -57,7 +57,7 @@ Output:Your number is an odd number.
 - Hint: Don't feel ashamed asking another student or googling `How to find out if a number is even c#`
 - BONUS: Do the age-task using the ternary operator
 
-Need Help? [Read the Slides on If..Else](slides#9---if--else)
+Need Help? [Read the Slides on If..Else](slides#9-if--else)
 
 ## 10 - Random:
 
@@ -97,7 +97,7 @@ Output:Crit
 - Then simulate 5 Attacks and write, whether it’s a Crit. Or No Crit. 
 - Hint: Thanks to using the Seed, you should actually receive the same results as me below, if using the same Seed. Test it! :)
 
-Need Help? [Here's The Slides!](slides/README.md#10---random)
+Need Help? [Here's The Slides!](slides/README.md#10-random)
 
 ## Done?
 Return to the [Overview](../../..#3-conditions)
