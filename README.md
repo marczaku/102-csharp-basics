@@ -43,7 +43,7 @@ Learn about more complex data manipulation through Maths, Strings, Random Number
 
 # 4 Go To
 ## Goal
-Learn about complex code flow controls through Loops and complex data storage through arrays.
+Learn about how we can go back in time (well at least lines of code) by using `goto`. This will allow us to run the same line(s) of code a second time. Or a hundredth. Or forever.
 
 [Let's Get Started!](4-go-to)
 
