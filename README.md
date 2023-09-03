@@ -6,10 +6,12 @@ This course will introduce you to the basics of C# Console Programming. We will 
 
 ## Passing Criteria
 - All exercises up to `operators` completed
-- An attempt made to solve the `operators` exercise
 
 ## Excellent Criteria
 - Solved the `operators` exercise
+
+## Bonus
+- Implemented the game of Nim
 
 ## Skills Learned
 
