@@ -96,7 +96,6 @@ Output:Crit
 - Ask the user for a Crit Chance between 0.0 (0%) and 1.0 (100%). 
 - Then simulate 5 Attacks and write, whether it’s a Crit. Or No Crit. 
 - Hint: Thanks to using the Seed, you should actually receive the same results as me below, if using the same Seed. Test it! :)
-
 Need Help? [Here's The Slides!](slides/README.md#10-random)
 
 ## Done?
