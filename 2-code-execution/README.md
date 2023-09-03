@@ -1,11 +1,7 @@
 # Exercises 2 - Code Execution
 
 ### Goal
-```
-Output:Hello, World!
-Output:Hello, World!
-Output:Hello, World!
-```
+Observe the results of the exercise.
 
 ### Instructions
 - Create a Console Project named `P2CodeExecution` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
