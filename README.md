@@ -11,11 +11,6 @@ This course will introduce you to the basics of C# Console Programming. We will 
 ## Excellent Criteria
 - Solved the `operators` exercise
 
-## Bonus Criteria
-- Find out, how you could have used `TimeSpan` to solve the problem
-- Write a function that returns a `string` of the time
-- Write a function that returns a `Time` `struct` that you have defined yourself
-
 ## Skills Learned
 
 ### GitHub
