@@ -10,7 +10,7 @@ Output: ??? (Observe)
 ```
 
 ## Instructions
-- Create a Console Project named `P6Conversion` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P8Conversion` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for a Number and assign the result to a variable.
 - Convert the variable to Type `double`.
 - Print the `double` to the Console.

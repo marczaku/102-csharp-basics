@@ -13,7 +13,7 @@ Output:In total, that's 1,4288888888888887 Days.
 ```
 
 ## Instructions
-- Create a Console Project named `P7Operators` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P9Operators` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Solve this Mathematic problem using code and output the result: 
 
 - Ask the user for an amount of seconds

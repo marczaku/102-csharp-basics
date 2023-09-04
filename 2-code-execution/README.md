@@ -5,6 +5,8 @@ Observe the results of the exercise.
 
 ### Instructions
 - Create a Console Project named `P2CodeExecution` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Make sure you have opened the project
+- Open the `Program.cs` File
 - Parse in the following code:
 ```cs
 Console.WriteLine("This is line 1.");
