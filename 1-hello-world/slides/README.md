@@ -33,6 +33,7 @@ First on Mac:
   - `cd` stands for change directory
   - if that directory does not exist, yet...
   - either use `mkdir ~/Projects/` to create said directory through the Terminal
+    - `mkdir` stands for make directory
   - or create it manually through `Finder`
 
 For Both (Windows and Mac):
@@ -58,6 +59,8 @@ For Both (Windows and Mac):
   - they reference from whatever working directory you are in right now
     - so if you type `HelloWorld` and you are in `C:\Projects`, it will look for `C:\Projects\HelloWorld`
     - if you type `HelloWorld` and you are in `D:\Stuff`, it will look for `D:\Stuff\HelloWorld`
+  - You can use `..` to look at the parent directory
+    - if you type `..\Help` and you are in `D:\Some\Folder`, it will look for `D:\Some\Help`
 - Use the command `dotnet run` to run your new application
 - Observe the output:
 
