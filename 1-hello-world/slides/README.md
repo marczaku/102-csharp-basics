@@ -1,9 +1,10 @@
 ## Slides 1 - Hello World
 
 - Open https://dotnet.microsoft.com/download
-- Download and Install .NET 6.0
+- Download and Install .NET 7.0
 
-<img width="339" alt="image" src="https://user-images.githubusercontent.com/7360266/187091674-7ac8bb28-9d2d-40c3-86a4-2687068900ea.png">
+<img width="418" alt="image" src="https://github.com/marczaku/102-csharp-basics/assets/7360266/6cc8b204-5c37-4cc5-a368-70ccb7ff037e">
+
 
 
 ---
