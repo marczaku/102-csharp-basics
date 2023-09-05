@@ -69,6 +69,25 @@ int number = int.Parse(input, CultureInfo.InvariantCulture)
 
 ## Summary
 
+If you want to do this assignment:
+
+```cs
+TYPE_A a;
+TYPE_B b = a;
+```
+
+```mermaid
+graph TD
+    A{Same Type?} -->|Yes| B[Assign]
+    A -->|No| C{Can Conversion Fail?}
+    C -->|Yes| D{Is TYPE_A `string`?}
+    C -->|No| E{Loss of precision?}
+    D -->|Yes| F[Parse]
+    D -->|No| G[Convert]
+    E -->|Yes| H[Explicit Cast]
+    E -->|No| I[Implicit Cast]
+```
+
 - Conversions are often necessary while computing.
 - For example
   - you want to ask the user, how many items he wants to buy
