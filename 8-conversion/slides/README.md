@@ -14,8 +14,7 @@ But: Some types can be cast implicitly.
 
 ```cs
 int number = 5;
-double fractionalNumber = 1; // Value: 5.0
-string numberText = number; // Value: "5"
+float fractionalNumber = number; // Value: 5.0f
 ```
 
 ## Explicit Casting
@@ -23,8 +22,8 @@ Some can only be cast explicitly.
 - The reason is that for example converting a fractional number to a whole number comes with a loss of precision:
 
 ```cs
-double d = 9.78;
-int i = (int) d; // new value: 9
+float decimalNumber = 9.78;
+int number = (int) decimalNumber; // new value: 9
 ```
 
 ## Conversion
