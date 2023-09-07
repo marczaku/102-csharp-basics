@@ -19,6 +19,7 @@ Output:|||||||||||||||||| (18)
 Output:|||
 Output:The AI draws 2 matches.
 Output:|
+Input: 1
 Output: You lose.
 ```
 
