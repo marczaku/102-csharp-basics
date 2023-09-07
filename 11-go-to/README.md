@@ -17,7 +17,7 @@ Output: That's the number! Well played!
 ```
 
 ### Instructions
-- Create a Console Project named `P11GoTo` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P13GoTo` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Use `Random` to create a random number between 1 and 100 and assign it to a variable named `myNumber`.
 - Explain the game to the user and ask for his number.
 - Read the user's input and assign it to a variable named `guess`.
