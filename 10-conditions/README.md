@@ -15,7 +15,7 @@ Output:You are a grown-up:True
 ```
 
 ### Instructions
-- Create a Console Project named `P8Boolean` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P10Boolean` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for his age. Save it to a variable named `age`
 - First, do a few age-checks:
   - Save to a `bool`-variable named `isChild`, whether the age is between 0 and 12
@@ -40,7 +40,7 @@ Output:Your number is an odd number.
 ```
 
 ### Instructions
-- Create a Console Project named `P9IfElse` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P11IfElse` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the user for his age
 - Print one of these statements (the correct one): 
   - You are a grown-up 
@@ -87,7 +87,7 @@ Output:Crit
 ```
 
 ### Instructions
-- Create a Console Project named `P10Random` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
+- Create a Console Project named `P12Random` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Ask the User for a Seed and store it in a variable.
 - Initialize Random with the given Seed.
 - Get three Random Numbers between 0 and 5 (including 0, excluding 5) and print them to the Console.
