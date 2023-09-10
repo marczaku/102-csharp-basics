@@ -18,9 +18,9 @@ Console.WriteLine(z + z); // 60
 
 ```cs
 int add = 3 + 5; // 8
-int sub = 6 - 12; // -6
-int mul = 3 * 4; // 12
-int div = 9 / 3; // 3
+int subtract = 6 - 12; // -6
+int multiply = 3 * 4; // 12
+int divide = 9 / 3; // 3
 ```
 
 Another really cool one is the Modulo-Operator.
@@ -32,10 +32,10 @@ Another really cool one is the Modulo-Operator.
 - I will ask you to use it A LOT!
 
 ```cs
-int mod = 10 % 3; // = 1
+int modulo = 10 % 3; // = 1
 ```
 
-They may sometimes accept non-numeric types as input, if custom operators were implemented
+They may sometimes accept non-numeric types as input, if custom operators were implemented. More on that later.
 ```cs
 Coins twoCoins = new Coin() + new Coin();
 ```
@@ -48,40 +48,85 @@ Generally speaking, this means, that operators are evaluated from left to right:
 int result = 8 - 2 - 1; // 5
 ```
 
-Above sample first solves the first operator `8-2` and then the second one `6-1`
-```cs
-int result = 8 - 2 - 1; // 5
-```
+$8 - 2 - 1 = (8 - 2) - 1 = 6 - 1 = 5$
 
 Parentheses `()` have precedence over mathematical operators. They have a higher priority and are evaluated first.
 ```cs
 int result = 8 - (2 - 1); // 7
 ```
 
+$8 - (2 - 1) = 8 - 1 = 7$
+
 Keep in mind, that, just as in Mathematics, Division and Multiplication have higher precedence:
 ```cs
 int result = 4 + 1 * 2; // 6
 ```
 
-Above code sample is the same as:
-```cs
-int result = 4 + (1 * 2); // 6
-```
+$ 4 + 1 \mul 2 = 4 + (1 \mul 2) = 4 + 2 = 6
 
 ## Arithmetic Assignment Operators
+
+What's wrong with the following code sample?
+
+```cs
+int gold = 50;
+// collect 10 gold:
+gold + 10;
+```
+
+The problem: It evaluates to this:
+
+```cs
+50 + 10;
+```
+
+Which is the same as:
+
+```cs
+60;
+```
+
+But we don't do anything with the result of that expression.\
+We need to assign it:
+
+```cs
+int gold = 50;
+gold = gold + 10;
+```
+
+This evaluates to:
+
+```cs
+gold = 50 + 10;
+```
+
+And then to:
+
+```cs
+gold = 60;
+```
+
+Which is, what we expected.
+
+### Operator to the rescue
 
 - Since we very often use an operator on a variable's value and then assign the result to the same variable
 - A shorthand-writing exist for this case:
 
+Given
 ```cs
 int number = 5;
+```
+
+You can write
+
+```cs
 number = number + 3;
 ```
 
-is the same as:
+As:
 
 ```cs
-int number = 5;
 number += 3;
 ```
 

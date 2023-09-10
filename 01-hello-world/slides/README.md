@@ -65,7 +65,6 @@ For Both (Windows and Mac):
 <img width="570" alt="image" src="https://user-images.githubusercontent.com/7360266/134827701-e31dc98e-e92e-4d0a-aadd-a5c12352ab26.png">
 
 - We are done!
-- The machines are truly stealing our jobs!
 
 ---
 
