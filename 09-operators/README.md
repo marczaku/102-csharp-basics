@@ -35,8 +35,8 @@ Output:In total, that's 1,4288888888888887 Days.
 ## P09_01SpeedConverter
 
 Implement a program that takes an input for km/h and displays the result in m/s.
-- Input: `150`
-- Output: `540`
+- Input: `72`
+- Output: `20`
 
 ## P09_02MinutesToSeconds
 
