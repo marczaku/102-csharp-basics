@@ -14,7 +14,8 @@ Output: That's the number! Well played!
 ## Instructions
 - Create a Console Project named `P13GoTo` [How To?](https://gist\.github\.com/marczaku/a8b3c38c37e8876a46194a73ed24b1f2)
 - Follow the instructions of the pseudo-code below
-- Then see if you can clean up the code a bit
+- Then see if you can simplify the code a bit
+  - using `if`...`else if`...`else`
 - Bonus: Add a Try-Counter. Tell the User, how many guesses he needed.
 - Bonus: Add a Maximum Try Number. After 10 attempts, the Player loses.
 

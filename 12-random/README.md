@@ -32,6 +32,6 @@ Output:Crit
 - Get three Random Numbers between 0 and 5 (including 0, excluding 5) and print them to the Console.
 - Get three Random Numbers between 0 and 0.5 (including 0, excluding 0.5) and print them to the Console.
 - Get three Random Numbers between 0.2 and 0.7 (including 0.2, excluding 0.7) and print them to the Console.
-- Ask the user for a Crit Chance between 0.0 (0%) and 1.0 (100%). 
-  - Then simulate 5 Attacks and write, whether it’s a Crit. Or No Crit. 
-- Hint: Thanks to using the Seed, you should actually receive the same results as me below, if using the same Seed. Test it! :)
+- Ask the user for a Critical Hit Chance between 0.0 (0%) and 1.0 (100%). 
+  - Then simulate 5 Attacks where you roll for the Critical Hit Chance and print, whether it’s a Critical Hit. Or No Critical Hit. 
+- Hint: Thanks to using the Seed, you should actually receive the same results as me, if using the same Seed. Test it! :)
