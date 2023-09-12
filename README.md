@@ -5,10 +5,11 @@
 This course will introduce you to the basics of C# Console Programming. We will start with a classic `Hello World`-Application, make our way through concepts like types, operations, code-flow and finish this course with our first game.
 
 ## Passing Criteria
-- All exercises up to `operators` completed
+- All exercises up to `P09Operators` completed
 
 ## Excellent Criteria
-- Solved the `operators` exercise
+- You do not need to complete the previous exercises
+- Solved the `P09Operators` exercise
 
 ## Bonus
 - Implemented the game of Nim
