@@ -50,7 +50,8 @@ Write a Program that asks how many Dollars the user wants. Then, the program pro
 - Output: `"Here's your Dollars: $$$$$$$"`
 
 ## P13_2Triangle
-Write a program that prints an ASCII Triangle as follows. Use `goto` efficiently to write as little code as necessary.
+Write a program that prints an ASCII Triangle as big as the user desires. Use `goto` efficiently to write as little code as necessary.
+- Input: `5`
 ```
 #####
 ####
@@ -60,7 +61,8 @@ Write a program that prints an ASCII Triangle as follows. Use `goto` efficiently
 ```
 
 ## P13_3Pattern
-Write a program that prints the following pretty ASCII pattern. Use `goto` efficiently to write as little code as necessary.
+Write a program that prints the following pretty ASCII pattern of the size that the user desires. Use `goto` efficiently to write as little code as necessary.
+- Input: `5`
 ```
 #-#-#-#-#-
 -#-#-#-#-#
