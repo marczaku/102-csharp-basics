@@ -19,8 +19,9 @@ Output:|||||||||||||||||| (18)
 Output:|||
 Output:The AI draws 2 matches.
 Output:|
+Output:How many matches do you want to draw?
 Input: 1
-Output: You lose.
+Output:You drew the last match. You lose.
 ```
 
 ### Instructions
