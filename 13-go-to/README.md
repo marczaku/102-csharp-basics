@@ -59,7 +59,7 @@ Write a program that prints an ASCII Triangle as follows. Use `goto` efficiently
 #
 ```
 
-## P13_3
+## P13_3Pattern
 Write a program that prints the following pretty ASCII pattern. Use `goto` efficiently to write as little code as necessary.
 ```
 #-#-#-#-#-
