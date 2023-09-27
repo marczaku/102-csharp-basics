@@ -62,7 +62,7 @@ Keep in mind, that, just as in Mathematics, Division and Multiplication have hig
 int result = 4 + 1 * 2; // 6
 ```
 
-$ 4 + 1 \mul 2 = 4 + (1 \mul 2) = 4 + 2 = 6
+$ 4 + 1 \mul 2 = 4 + (1 \mul 2) = 4 + 2 = 6 $
 
 ## Arithmetic Assignment Operators
 
