@@ -82,4 +82,4 @@ Develop a program that calculates the length of the hypotenuse of a right triang
 ## P09_10SecondsToMinutes
 Write a program that takes an integer input representing seconds and converts it to minutes and remaining seconds, then displays the result.
 - Input: `111`
-- Output: `1:51`
+- Output: `1 minute(s) and 51 second(s)`
