@@ -39,7 +39,7 @@ Output:You drew the last match. You lose.
 
 Need Help? [Read the Slides on Game On](slides)
 
-## Game 2: Tic, Tac, Toe (BONUS)
+## Game 2: Tic, Tac, Toe (BONUS, Difficult!)
 ### Instructions
 - Create a Console Project named `TicTacToe`
 - 2 Players
