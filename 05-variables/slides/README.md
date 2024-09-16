@@ -19,7 +19,7 @@ string user;
 - You can access variables for reading and writing using their name
 - You can assign a value to a variable using the assignment operator `=`
 ```cs
-user = "Marc;
+user = "Marc";
 ```
 
 ## Variable Access
