@@ -49,15 +49,15 @@ Console.WriteLine(pet); // ERROR: Cannot access uninitialized variable.
 - You can initialize a variable directly when defining it:
 ```cs
 string trinket = "The One Ring";
-Console.WriteLine(score); // This prints 99
+Console.WriteLine(trinket); // This prints 99
 ```
 
 - You can assign a new value to a variable anytime:
 ```cs
 string book = "Harry Potter";
-Console.WriteLine(z); // This prints Harry Potter
+Console.WriteLine(book); // This prints Harry Potter
 book = "Kungsgatan"
-Console.WriteLine(z); // This prints Kungsgatan
+Console.WriteLine(book); // This prints Kungsgatan
 ```
 
 ## Variable Validity
@@ -70,7 +70,7 @@ string movie = "Inception"; // This is, where a is defined.
 ## Multiple Definition
 You can define multiple variables of the same type by separating the variable names by a comma `,`:
 ```cs
-int book, movie, tvShow;
+string book, movie, tvShow;
 ```
 
 But careful, if you assign a value right away, it only gets assigned to the right-most variable.
@@ -78,7 +78,7 @@ But careful, if you assign a value right away, it only gets assigned to the righ
 - `movie`: uninitialized
 - `tvShow`: `"Harry Potter"`
 ```c
-int book, movie, tvShow = 2;
+string book, movie, tvShow = "Hello";
 ```
 
 ## Multiple Assignments
