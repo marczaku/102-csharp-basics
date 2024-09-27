@@ -8,7 +8,7 @@ This course will introduce you to the basics of C# Console Programming. We will 
 - `P09Operators` completed
 
 ## Excellent Criteria
-- Solved the `P13GoTO` exercise as well
+- `P13GoTo` completed
 
 ## Bonus
 - Implemented the game of Nim
