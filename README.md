@@ -1,5 +1,12 @@
 # 102 - CSharp Basics
 
+Hi, my name is Marc and I am an enthusiastic Software Developer and Lecturer.\
+A lot of ⏱️ time and many years of iteration went into the preparation of this class material.\
+Please Leave a ⭐️ on this repository if you found this course helpful!\
+Feel free to open Issues for 💡 Feedback as well!
+
+This material is available for free under the terms of [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). Check the `LICENSE` file on this repository for details.
+
 ## Goal
 
 This course will introduce you to the basics of C# Console Programming. We will start with a classic `Hello World`-Application, make our way through concepts like types, operations, code-flow and finish this course with our first game.
